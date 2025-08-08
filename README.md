@@ -54,16 +54,16 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 
     **De forma local:**
     1. Descarga archivos .zip de la Encuesta Permanente de Hogares (EPH) de la [página oficial del INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos)
-    2. Colocarlos en la carpeta /utils/data \n
-        **Estructura final:**
+    2. Colocarlos en la carpeta /utils/data
+    **Estructura final:**
 
-            |──INDEC
-            │   ├── utils                           
-            │         ├── data                 
-            │               ├── data_2_2019.zip
-            |               ├── data_1_2020.zip
-            |               ├── valores-canasta-basica-alimentos-canasta-basica-total-mensual-2016.csv
-            |               ├── aglomerados_coordenadas.json
+        |──INDEC
+        │   ├── utils                           
+        │         ├── data                 
+        │               ├── data_2_2019.zip
+        |               ├── data_1_2020.zip
+        |               ├── valores-canasta-basica-alimentos-canasta-basica-total-mensual-2016.csv
+        |               ├── aglomerados_coordenadas.json
 
     ***⚠️ Al descargarse los archivos en extension .zip no habra faltantes en Individuos u Hogares para el mismo año y trimestre***
 --------------------------------------------------------------------
