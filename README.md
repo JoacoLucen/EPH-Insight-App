@@ -56,7 +56,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
     2. Colocarlos en la carpeta /utils/data
         **Estructura final:**
 
-            |──INDEC
+            |──EPH-Insight-App
             │   ├── utils                           
             │         ├── data                 
             │               ├── data_2_2019.zip
@@ -70,7 +70,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 
 #### 1. **Entrar a la carpeta de Streamlit**
 
-- Posicionarse en la carpeta del trabajo `CODE`.
+- Posicionarse en la carpeta del trabajo `EPH-Insight-App`.
 - Ingresar a la carpeta de Streamlit:
 
 ```bash
@@ -117,7 +117,7 @@ streamlit run Inicio.py
 **Tree**
 
 ```bash
-INDEC/
+EPH-Insight-App/
 ├── notebooks/
 │   ├── consultas.ipynb
 │   ├── hogares.ipynb
