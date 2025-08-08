@@ -50,7 +50,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 
         pip install -r requirements.txt
 
-4. **Agregar archivos**: Se puede hacer de forma local o en la pagina de Streamlit
+4. **Agregar archivos**: Se puede hacer desde la pagina de Streamlit o de forma local, como se muestra a continuacion..
     
     1. Descarga archivos .zip de la Encuesta Permanente de Hogares (EPH) de la [página oficial del INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos)
     2. Colocarlos en la carpeta /utils/data
