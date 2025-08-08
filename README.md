@@ -54,7 +54,7 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 
     **De forma local:**
     1. Descarga archivos .zip de la Encuesta Permanente de Hogares (EPH) de la [página oficial del INDEC](https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos)
-    2. Colocarlos en la carpeta /utils/data
+    2. Colocarlos en la carpeta /utils/data \n
         **Estructura final:**
 
             |──INDEC
