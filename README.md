@@ -29,13 +29,13 @@ Sigue estos pasos para configurar el entorno de desarrollo:
 1. **Clonar el repositorio**:
    ```bash
    Clone con SSH
-    git clone git@gitlab.catedras.linti.unlp.edu.ar:python-2025/proyectos/grupo26/code.git
+    git clone git@github.com:JoacoLucen/EPH-Insight-App.git
    Clone con HTTPS
-    git clone https://gitlab.catedras.linti.unlp.edu.ar/python-2025/proyectos/grupo26/code.git
+    git clone https://github.com/JoacoLucen/EPH-Insight-App.git
 
 2. **Entrar a la carpeta del proyecto**:
 
-        cd INDEC
+        cd EPH-Insight-App
 
 3. **Crear y activar el entorno virtual**:
     **Windows**
